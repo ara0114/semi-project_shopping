@@ -18,7 +18,7 @@
 
 ## ✔기능 소개
 
-#### 1. 로그인 페이지 - 아이디/패스워드 찾기
+### 1. 로그인 페이지 - 아이디/패스워드 찾기
 
 <img src="https://user-images.githubusercontent.com/103404127/175298144-b3f08c1d-6203-4d9e-b1d8-5d387fbc8d3b.png" width="30%" height="30%">
 
@@ -36,7 +36,7 @@
 
 <br>
 
-#### 2. 마이페이지 - 사진 수정
+### 2. 마이페이지 - 사진 수정
 
 <img src="https://user-images.githubusercontent.com/103404127/175302556-41ba6607-7dec-4594-8588-14b4f7ecf45f.png">
 
@@ -52,7 +52,7 @@
 
 <br>
 
-#### 3. 관리자 페이지 - 상품 조회
+### 3. 관리자 페이지 - 상품 조회
 
 <img src="https://user-images.githubusercontent.com/103404127/175305111-0d74a019-a3f1-4018-9d21-11a70627eb3c.png">
 
@@ -64,7 +64,7 @@
 
 <br>
 
-#### 4. 상품 상세페이지 - Review
+### 4. 상품 상세페이지 - Review
 
 <img src="https://user-images.githubusercontent.com/103404127/175309940-bcd7117f-b886-4dfe-a0f7-17445eac388b.png" width="50%"><img src="https://user-images.githubusercontent.com/103404127/175308064-c1047b65-dfba-4f6a-a5e8-80237d71f6d2.png" width="50%">
 
@@ -78,13 +78,15 @@
 
 <br>
 
-#### 5. 공지사항
+### 5. 공지사항
 
 <img src="https://user-images.githubusercontent.com/103404127/175311803-19073232-7f57-4fd3-bd77-d52246920446.png" width="80%" height="80%">
 
 <img src="https://user-images.githubusercontent.com/103404127/175312007-df8e8879-d7c9-4793-9785-463926b568a5.png" width="80%" height="80%">
 
-<img src="https://user-images.githubusercontent.com/103404127/175311908-7b9590ef-b6c4-4c53-bc4d-ddba6bb34ed4.png" width="50%" height="40%"><img src="https://user-images.githubusercontent.com/103404127/175312053-7c6fae71-976c-4f0f-afd6-932563fe08f8.png" width="50%" height="40%">
+<img src="https://user-images.githubusercontent.com/103404127/175314808-e0ed70b1-a025-44e1-85f9-6a68c4718591.png" width="50%"><img src="https://user-images.githubusercontent.com/103404127/175314188-6aa70c75-5f54-45d3-9c0a-2f1c23f7b6b2.png" width="50%">
 
 - 관리자일 때 등록/수정/삭제 버튼 생성 및 기능
 - 공지목록과 상세조회는 모두 가능
+
+
