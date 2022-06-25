@@ -55,7 +55,7 @@ $("#modalCloseBtn").on("click", function (e) {
 $("#addReplyBtn").on("click", function (e) {
 	if(sessionId == '' || sessionId == null){
 		alert("로그인 후 이용 가능합니다.");
-		location.href="/member/login?rurl=/contents/detail/"+contentsno+param;
+		location.href="/member/login?rurl=/contents/detail/"+contentsno+"&"+param;
 		return ;
 	}
   modalInputContent.val("");
